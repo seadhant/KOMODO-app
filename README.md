@@ -7,3 +7,7 @@ E WASTE management app
 
 ![Screenshot_2020-02-16-12-17-12-627_com komododragon innobuzz](https://user-images.githubusercontent.com/50979611/83979308-1341f900-a92b-11ea-865a-469fdac2f7cd.jpg)
 
+# Features to be added
+- Refining the UI
+- Integrating object detection to the camera
+- Strengthing the backend
